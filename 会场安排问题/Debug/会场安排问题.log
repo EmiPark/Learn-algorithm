@@ -1,0 +1,16 @@
+﻿  会场安排问题.cpp
+c:\codingworkspace\c++\算法作业\会场安排问题\会场安排问题.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\算法作业\会场安排问题\会场安排问题.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\算法作业\会场安排问题\会场安排问题.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\算法作业\会场安排问题\会场安排问题.cpp(32): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\算法作业\会场安排问题\会场安排问题.cpp(36): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\算法作业\会场安排问题\会场安排问题.cpp(48): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\算法作业\会场安排问题\会场安排问题.cpp(68): warning C4018: “<”: 有符号/无符号不匹配
+  c:\codingworkspace\c++\算法作业\会场安排问题\会场安排问题.cpp(29): note: 参见对正在编译的函数 模板 实例化“void bubbleSort<int>(elemType **,int)”的引用
+          with
+          [
+              elemType=int
+          ]
+c:\codingworkspace\c++\算法作业\会场安排问题\会场安排问题.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+  会场安排问题.vcxproj -> C:\CodingWorkspace\C++\算法作业\Debug\会场安排问题.exe
+  会场安排问题.vcxproj -> C:\CodingWorkspace\C++\算法作业\Debug\会场安排问题.pdb (Full PDB)

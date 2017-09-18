@@ -1,0 +1,24 @@
+﻿  多元哈夫曼编码问题.cpp
+c:\codingworkspace\c++\算法作业\多元哈夫曼编码问题\多元哈夫曼编码问题.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\算法作业\多元哈夫曼编码问题\多元哈夫曼编码问题.cpp(37): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\算法作业\多元哈夫曼编码问题\多元哈夫曼编码问题.cpp(46): warning C4018: “>”: 有符号/无符号不匹配
+c:\codingworkspace\c++\算法作业\多元哈夫曼编码问题\多元哈夫曼编码问题.cpp(56): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\算法作业\多元哈夫曼编码问题\多元哈夫曼编码问题.cpp(74): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\算法作业\多元哈夫曼编码问题\多元哈夫曼编码问题.cpp(83): warning C4018: “>”: 有符号/无符号不匹配
+c:\codingworkspace\c++\算法作业\多元哈夫曼编码问题\多元哈夫曼编码问题.cpp(93): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\算法作业\多元哈夫曼编码问题\多元哈夫曼编码问题.cpp(124): warning C4018: “<”: 有符号/无符号不匹配
+  c:\codingworkspace\c++\算法作业\多元哈夫曼编码问题\多元哈夫曼编码问题.cpp(43): note: 参见对正在编译的函数 模板 实例化“elemType *bubbleSortMax2Min<int>(elemType *,int)”的引用
+          with
+          [
+              elemType=int
+          ]
+c:\codingworkspace\c++\算法作业\多元哈夫曼编码问题\多元哈夫曼编码问题.cpp(126): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\算法作业\多元哈夫曼编码问题\多元哈夫曼编码问题.cpp(110): warning C4018: “<”: 有符号/无符号不匹配
+  c:\codingworkspace\c++\算法作业\多元哈夫曼编码问题\多元哈夫曼编码问题.cpp(80): note: 参见对正在编译的函数 模板 实例化“elemType *bubbleSortMin2Max<int>(elemType *,int)”的引用
+          with
+          [
+              elemType=int
+          ]
+c:\codingworkspace\c++\算法作业\多元哈夫曼编码问题\多元哈夫曼编码问题.cpp(112): warning C4018: “<”: 有符号/无符号不匹配
+  多元哈夫曼编码问题.vcxproj -> C:\CodingWorkspace\C++\算法作业\Debug\多元哈夫曼编码问题.exe
+  多元哈夫曼编码问题.vcxproj -> C:\CodingWorkspace\C++\算法作业\Debug\多元哈夫曼编码问题.pdb (Full PDB)

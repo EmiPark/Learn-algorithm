@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  找零问题.cpp
+找零问题.cpp(78): warning C4018: “<”: 有符号/无符号不匹配
+找零问题.cpp(130): warning C4018: “<”: 有符号/无符号不匹配
+找零问题.cpp(147): warning C4018: “<=”: 有符号/无符号不匹配
+找零问题.cpp(152): warning C4018: “<=”: 有符号/无符号不匹配
+找零问题.cpp(154): warning C4018: “<=”: 有符号/无符号不匹配
+  正在生成代码
+  All 188 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  找零问题.vcxproj -> C:\CodingWorkspace\C++\算法作业\Release\找零问题.exe
+  找零问题.vcxproj -> C:\CodingWorkspace\C++\算法作业\Release\找零问题.pdb (Full PDB)

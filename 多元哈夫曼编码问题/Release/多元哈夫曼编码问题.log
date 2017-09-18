@@ -1,0 +1,25 @@
+﻿  多元哈夫曼编码问题.cpp
+多元哈夫曼编码问题.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+多元哈夫曼编码问题.cpp(37): warning C4018: “<”: 有符号/无符号不匹配
+多元哈夫曼编码问题.cpp(81): warning C4018: “<”: 有符号/无符号不匹配
+多元哈夫曼编码问题.cpp(137): warning C4018: “<”: 有符号/无符号不匹配
+  多元哈夫曼编码问题.cpp(44): note: 参见对正在编译的函数 模板 实例化“elemType *bubbleSortMax2Min<int>(elemType *,int)”的引用
+          with
+          [
+              elemType=int
+          ]
+多元哈夫曼编码问题.cpp(139): warning C4018: “<”: 有符号/无符号不匹配
+多元哈夫曼编码问题.cpp(123): warning C4018: “<”: 有符号/无符号不匹配
+  多元哈夫曼编码问题.cpp(87): note: 参见对正在编译的函数 模板 实例化“elemType *bubbleSortMin2Max<int>(elemType *,int)”的引用
+          with
+          [
+              elemType=int
+          ]
+多元哈夫曼编码问题.cpp(125): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  1 of 16 functions ( 6.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  多元哈夫曼编码问题.vcxproj -> C:\CodingWorkspace\C++\算法作业\Release\多元哈夫曼编码问题.exe
+  多元哈夫曼编码问题.vcxproj -> C:\CodingWorkspace\C++\算法作业\Release\多元哈夫曼编码问题.pdb (Full PDB)

@@ -1,0 +1,13 @@
+﻿  最优装载问题.cpp
+c:\codingworkspace\c++\算法作业\最优装载问题\最优装载问题.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\算法作业\最优装载问题\最优装载问题.cpp(38): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\算法作业\最优装载问题\最优装载问题.cpp(58): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\算法作业\最优装载问题\最优装载问题.cpp(77): warning C4018: “<”: 有符号/无符号不匹配
+  c:\codingworkspace\c++\算法作业\最优装载问题\最优装载问题.cpp(35): note: 参见对正在编译的函数 模板 实例化“void bubbleSort<int>(elemType *,int)”的引用
+          with
+          [
+              elemType=int
+          ]
+c:\codingworkspace\c++\算法作业\最优装载问题\最优装载问题.cpp(79): warning C4018: “<”: 有符号/无符号不匹配
+  最优装载问题.vcxproj -> C:\CodingWorkspace\C++\算法作业\Debug\最优装载问题.exe
+  最优装载问题.vcxproj -> C:\CodingWorkspace\C++\算法作业\Debug\最优装载问题.pdb (Full PDB)
